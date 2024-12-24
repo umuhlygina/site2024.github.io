@@ -1,0 +1,17 @@
+body {
+   background-color: #8bc5cf;
+}
+nav {
+    color: #05386B;
+    background-color: #d4b995;
+    font-size: 2em;
+}
+h1 {
+    color: #8D8741;
+    font-size: 4em;
+}
+main {
+    color: white;
+    background-color: #84cdf7;
+    font-size: 2em;
+}

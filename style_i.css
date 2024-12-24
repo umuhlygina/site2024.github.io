@@ -1,0 +1,21 @@
+body {
+    background-color: #6afcf4b0;
+}
+nav {
+    color: #1f1da1;
+    background-color: #dfb7d6;
+    font-size: 1.5em;
+}
+h1 {
+    color: #000000;
+    font-size: 4em;
+}
+main {
+    color: white;
+    background-color: #8EE4AF;
+    font-size: 2em;
+}
+g {
+    color: #cbdae4;
+    font-size: 2em;  
+}
